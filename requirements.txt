@@ -4,3 +4,7 @@ flask
 scikit-learn
 tensorflow
 ipykernel
+pandas_datareader
+yfinance
+plotly
+nbformat
